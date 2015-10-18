@@ -1,9 +1,9 @@
 ﻿using UnityEngine;
 using UnityEditor;
 
-namespace RyanNielson.Bedrock.AssetPostprocessors
+namespace RyanNielson.Bedrock
 {
-    public class SpriteAssetPostprocessor : AssetPostprocessor
+    public class SpriteAssetProcessor : AssetPostprocessor
     {
         private void OnPreprocessTexture()
         {
