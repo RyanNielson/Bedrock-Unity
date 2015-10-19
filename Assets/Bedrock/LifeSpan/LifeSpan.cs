@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-namespace RyanNielson.Bedrock
+namespace Bedrock.LifeSpan
 {
     public class LifeSpan : MonoBehaviour
     {

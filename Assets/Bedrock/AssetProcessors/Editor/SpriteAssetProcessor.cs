@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEditor;
 
-namespace RyanNielson.Bedrock
+namespace Bedrock.AssetProcessors
 {
     public class SpriteAssetProcessor : AssetPostprocessor
     {

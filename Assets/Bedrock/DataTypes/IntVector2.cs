@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace RyanNielson.Bedrock
+namespace Bedrock.DataTypes
 {
     [Serializable]
     public struct IntVector2
