@@ -1,5 +1,5 @@
 # Bedrock
-A collection Unity scripts and assets to help get your projects off the ground.
+A collection Unity scripts and assets to help get your projects off the ground. This is a work in progress and will be improved quite rapidly.
 
 ## Features
 
